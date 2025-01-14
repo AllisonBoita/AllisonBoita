@@ -1,3 +1,5 @@
+![Visits](https://img.shields.io/badge/Visits-<contador>-blue)
+
 <h2 align="left">About Me</h2>
 
 ###
