@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '*/1 * * * *' # Executa a cada minuto
+    - cron: '*/15 * * * *' # Executa a cada minuto
 
 jobs:
   update-visits:
