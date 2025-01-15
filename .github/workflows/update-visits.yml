@@ -35,5 +35,9 @@ jobs:
 
       - name: Commit and Push changes
         run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/AllisonBoita/AllisonBoita.git
+          git add visits.txt README.md
+          git commit -m 'Update visits count'
           git push origin main
