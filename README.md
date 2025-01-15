@@ -1,4 +1,4 @@
-![Visits](https://img.shields.io/badge/Visits-<contador>-blue)
+![Visits](https://img.shields.io/badge/Visits-40-blue)
 
 <h2 align="left">About Me</h2>
 
@@ -52,3 +52,13 @@
 </div>
 
 ###
+
+## Créditos
+
+Este projeto é baseado no trabalho original de [Osman Durdağ](https://github.com/zumrudu-anka/zumrudu-anka).  
+Modificações foram feitas por Allison Boita para atualização de readme.
+
+## Licença
+
+Este projeto é licenciado sob a [Licença MIT](LICENSE).  
+O texto da licença original pode ser encontrado no arquivo [LICENSE](LICENSE).
