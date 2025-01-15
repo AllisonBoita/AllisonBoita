@@ -1,4 +1,4 @@
-![Visits](https://img.shields.io/badge/Visits-43-blue)
+![Visits](https://img.shields.io/badge/Visits-44-blue)
 
 <h2 align="left">About Me!</h2>
 
