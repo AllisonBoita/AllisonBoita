@@ -35,6 +35,5 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          git add visits.txt README.md
-          git commit -m 'Update visits count'
-          git push https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/AllisonBoita/AllisonBoita.git
+          git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/AllisonBoita/AllisonBoita.git
+          git push origin main
