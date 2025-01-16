@@ -1,6 +1,6 @@
 ![Visits](https://img.shields.io/badge/Visits-101-blue)
 
-<h2 align="left">About Me!</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16F70C&center=true&width=435&lines=Hello%2C+There!;This+is+Allison+Boita...;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 ###
 
