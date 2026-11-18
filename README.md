@@ -4,8 +4,7 @@
 
 ###
 
-<p align="left">💻 Graduado em Sistemas de Informação | Entusiasta em Desenvolvimento de Software e Qualidade 🚀<br><br>💬 Português:<br><br>Sou apaixonado pela área de tecnologias da informação, sempre buscando o aperfeiçoamento e o estudo de diversas áreas da Computação. Graduado em Sistemas de Informação pela Universidade do Oeste de Santa Catarina - Campus Chapecó, atualmente atuo como QA Analyst na Expresso São Miguel.<br><br>Tenho experiência em desenvolvimento com React e TypeScript, além de conhecimento em desenvolvimento mobile utilizando Kotlin. Possuo também habilidades em Python, JavaScript, Node.js, bancos de dados relacionais e não relacionais (MongoDB, SQLServer, PostgreSQL), além de automação de testes com JUnit 5, Selenium Library, RobotFramework e Cypress.<br><br>🌎English:<br><br>I am passionate about information technology, always seeking improvement and exploring various fields of Computing. I hold a degree in Information Systems from Universidade do Oeste de Santa Catarina - Campus Chapecó, and I currently work as a QA Analyst at Expresso São Miguel.<br><br>I have experience in development with React and TypeScript, as well as expertise in mobile development using Kotlin. Additionally, I have skills in Python, JavaScript, Node.js, relational and non-relational databases (MongoDB, SQLServer, PostgreSQL), and test automation using JUnit 5, Selenium Library, RobotFramework, and Cypress.</p>
-
+<p align="left">💻 Graduado em Sistemas de Informação | Entusiasta em Desenvolvimento de Software e Qualidade 🚀<br><br>
 ###
 
 <h2 align="left">Techs</h2>
